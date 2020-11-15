@@ -1,6 +1,6 @@
 <template>
   <div class="row">
-    <div class="col s12">
+    <div class="col s12 l6 right">
       <a  href="https://juanmiguelruizpazos.com" class="btn">BACK TO HOMEPAGE</a>
     </div>
   </div>

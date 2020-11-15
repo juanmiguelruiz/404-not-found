@@ -1,9 +1,9 @@
 <template>
   <div class="row">
-    <div class="col s12">
+    <div class="col s12 l6">
       <img src="../../assets/Scarecrow.png" alt="image" class="message__img" />
     </div>
-    <div class="col s12">
+    <div class="col s12 l6">
       <p class="message__title">
         I have bad news for you
       </p>
@@ -43,5 +43,7 @@ export default {
   font-weight: 200;
   line-height: 1.5em;
   letter-spacing: -0.035em;
+  color: #4F4F4F;
 }
+
 </style>
